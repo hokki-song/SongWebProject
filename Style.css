@@ -6,8 +6,6 @@ body { background-color: #ffffff;
 }
 header { background-color: #4D9878;
         height: 155px;
-        background-image: url(movieslogo.png);
-         background-repeat: no-repeat;      
 }
 h1 { padding-top: 45px;
     padding-left: 220px;
